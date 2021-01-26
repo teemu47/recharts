@@ -108,4 +108,4 @@ Most of the core team members do this open source work in their free time. If yo
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2015-2020 Recharts Group.
+Copyright (c) 2015-2021 Recharts Group.
